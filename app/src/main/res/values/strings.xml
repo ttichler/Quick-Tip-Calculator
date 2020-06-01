@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Quick Tip Calculator</string>
     <string name="enter_bill_str">Enter bill amount:</string>
+    <string name="value_of_15_tip">Value of 15% tip</string>
+    <string name="value_of_20_tip">Value of 20% tip</string>
+    <string name="value_of_25_tip">Value of 25% tip</string>
 </resources>
